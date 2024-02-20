@@ -1,0 +1,7 @@
+# ninja log v5
+2	320	7300966291571514	CMakeFiles/CSC450_CT1_ANishiyama.dir/main.cpp.obj	77cf6fe4ebbe846a
+320	375	7300966292112590	CSC450_CT1_ANishiyama.exe	960e4fbe2c4961ba
+0	66	7300966697556367	build.ninja	7a2f01cdc3c6ace1
+1	64	7300966697556367	build.ninja	7a2f01cdc3c6ace1
+0	311	7300966700794615	CMakeFiles/CSC450_CT1_ANishiyama.dir/ctone.cpp.obj	feff1e173cd4210d
+311	364	7300966701316814	CSC450_CT1_ANishiyama.exe	eb296281beba85a3
