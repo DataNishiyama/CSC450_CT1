@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Struct Inputs
+//Struct Input
 struct Dwarf {
     string firstName;
     string lastName;
