@@ -2,7 +2,7 @@
 
 #include<iostream>
 
-//Remove of <conio.h>
+//Remove of <conio.h> not used here
 
 //Standard namespace declaration
 using namespace std;

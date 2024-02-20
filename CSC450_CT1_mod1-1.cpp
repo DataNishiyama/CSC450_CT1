@@ -1,6 +1,6 @@
 #include<iostream>
 
-//Removed Import library function not used
+//Removed Import library function not used here
 //#include<conio.h>
 
 //Standard namespace declaration
