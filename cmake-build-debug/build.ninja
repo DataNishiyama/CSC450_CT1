@@ -55,6 +55,12 @@ build CMakeFiles/CSC450_CT1_ANishiyama.dir/ctone.cpp.obj: CXX_COMPILER__CSC450_C
   OBJECT_DIR = CMakeFiles\CSC450_CT1_ANishiyama.dir
   OBJECT_FILE_DIR = CMakeFiles\CSC450_CT1_ANishiyama.dir
 
+build CMakeFiles/CSC450_CT1_ANishiyama.dir/CSC450_CT1_mod1-1.cpp.obj: CXX_COMPILER__CSC450_CT1_ANishiyama_unscanned_Debug C$:/Users/datan/OneDrive/Desktop/CSU/CSC450/Week$ 1/CSC450_CT1_ANishiyama/CSC450_CT1_mod1-1.cpp || cmake_object_order_depends_target_CSC450_CT1_ANishiyama
+  DEP_FILE = CMakeFiles\CSC450_CT1_ANishiyama.dir\CSC450_CT1_mod1-1.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CSC450_CT1_ANishiyama.dir
+  OBJECT_FILE_DIR = CMakeFiles\CSC450_CT1_ANishiyama.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CSC450_CT1_ANishiyama
@@ -63,7 +69,7 @@ build CMakeFiles/CSC450_CT1_ANishiyama.dir/ctone.cpp.obj: CXX_COMPILER__CSC450_C
 #############################################
 # Link the executable CSC450_CT1_ANishiyama.exe
 
-build CSC450_CT1_ANishiyama.exe: CXX_EXECUTABLE_LINKER__CSC450_CT1_ANishiyama_Debug CMakeFiles/CSC450_CT1_ANishiyama.dir/ctone.cpp.obj
+build CSC450_CT1_ANishiyama.exe: CXX_EXECUTABLE_LINKER__CSC450_CT1_ANishiyama_Debug CMakeFiles/CSC450_CT1_ANishiyama.dir/ctone.cpp.obj CMakeFiles/CSC450_CT1_ANishiyama.dir/CSC450_CT1_mod1-1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CSC450_CT1_ANishiyama.dir
